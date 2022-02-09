@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MarijnVanDeHoef
+- 👀 I’m interested in code
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on python and HTML(CSS, PHP, Javascript, SQL)
+- 📫 How to reach me 
+  - e-mail: hoefjelle1@gmail.com
